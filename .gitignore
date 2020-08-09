@@ -6,3 +6,5 @@
 *.gif
 *.asp
 *.jpg')
+wordembedding word2vec odd one out challenge/glove.6B.50d.txt
+wordembedding word2vec odd one out challenge/word2vec.txt
